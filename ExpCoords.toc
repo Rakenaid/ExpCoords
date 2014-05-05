@@ -1,0 +1,6 @@
+## Interface: 50400
+## Title: Explorer Coords |cFF87CEFA2|r
+## Notes: Marks areas on the world map that you have left to explore for Exploration achievements!
+## Version: 1.0A
+overlays.lua
+ExpCoords.lua
